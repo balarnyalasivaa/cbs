@@ -1,4 +1,4 @@
 Nama	: Balar Nyalasivaa
 NPM	: 140810160050
-TTL	: Manchester, 19 Oktober 1998
 JK	: Pria
+Motto	: The magic ends here
